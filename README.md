@@ -1,4 +1,6 @@
-# Udacity_Investigate-a-Dataset-ProjectIntroduction
+#Investigate-a-Dataset-Project  - UDACITY PROJECT
+
+Introduction
 In this dataset I would be analyzing an information which is focused on whether or not patients show up for their appointments. This would help to a great deal to understand the factors surrounding the absence or presence of patients for a Doctors Appointment.The dataset has over 110,527 rows and 14 columns. Kindly find below the Dictionary showing the dataset definitions.
 
 Data Dictionary
